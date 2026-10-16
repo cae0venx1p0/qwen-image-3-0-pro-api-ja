@@ -1,0 +1,23 @@
+{
+  "id": "qwen-image-3.0-pro",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-16T04:47:49Z",
+  "prices": {
+    "default": {
+      "list": 0.035714,
+      "effective": 0.0285712
+    },
+    "1K": {
+      "list": 0.035714,
+      "effective": 0.0285712
+    },
+    "2K": {
+      "list": 0.071429,
+      "effective": 0.0571432
+    }
+  },
+  "rates": {},
+  "unit": "usd_per_image",
+  "hook": "from $0.0285712 per image (1K $0.0285712 · 2K $0.0571432)",
+  "model_page": "https://apimart.ai/model/qwen-image-3-0"
+}
